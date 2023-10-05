@@ -1,0 +1,13 @@
+{
+ "name": "Rohit Dadgal",
+ "location": "India",
+ "bio": "Aspiring Software Developer and Android Campusfest Appathon 2023 Winner.",
+ "avatar": "https://github.com/zoro-xD.png",
+ "portfolio": "https://github.com/zoro-xD",
+ "skills": ["HTML", "Javascript", "C++"],
+ "social": {
+   "GitHub": "https://github.com/zoro-xD",
+   "Twitter": "https://twitter.com/dadgal_rohit",
+   "LinkedIn": "https://www.linkedin.com/in/rohitdadgal/"
+ }
+},
